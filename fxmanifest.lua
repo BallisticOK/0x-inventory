@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'ps-inventory'
+description '0x-inventory'
 version '1.0.4'
 
 shared_scripts {
