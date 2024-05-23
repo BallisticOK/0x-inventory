@@ -12,23 +12,23 @@ Future updates will be coming and we will of course support all normal monitor s
 
 ### Full Inventory
 
-![image](https://github.com/Project-Sloth/0x-inventory/assets/82112471/fda2588d-e468-4fd5-8bf5-2f584f059609)
+![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/fda2588d-e468-4fd5-8bf5-2f584f059609)
 
 ### Options Menu
 
-![image](https://github.com/Project-Sloth/0x-inventory/assets/82112471/1782f97a-27e6-441b-90a1-ff150cd846e2)
+![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/1782f97a-27e6-441b-90a1-ff150cd846e2)
 
 ### Hotbar Slots
 
-![image](https://github.com/Project-Sloth/0x-inventory/assets/82112471/c0a77f4a-f482-42f5-a5da-1f3571d14130)
+![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/c0a77f4a-f482-42f5-a5da-1f3571d14130)
 
 ### Inventory Glovebox
 
-![image](https://github.com/Project-Sloth/0x-inventory/assets/82112471/432f8c79-1a9f-44d1-8062-50b596194752)
+![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/432f8c79-1a9f-44d1-8062-50b596194752)
 
 ### Inventory Trunk
 
-![image](https://github.com/Project-Sloth/0x-inventory/assets/82112471/f9c78e49-ec51-4d55-9ac0-b7058951d31a)
+![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/f9c78e49-ec51-4d55-9ac0-b7058951d31a)
 
 # Key Features
 
